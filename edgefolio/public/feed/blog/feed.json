@@ -1,0 +1,47 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Abdiel Personal Site",
+    "home_page_url": "http://localhost:3000",
+    "feed_url": "C:\\Users\\user\\Desktop\\Demo-main\\edgefolio\\public\\feed\\blog/feed.json",
+    "description": "A short description goes here.",
+    "icon": "http://localhost:3000/favicon.ico",
+    "author": {
+        "name": "Abdiel",
+        "url": "https://twitter.com/handle"
+    },
+    "items": [
+        {
+            "id": "http://localhost:3000/blog/Rendimiento/Trucos para mejorar la velocidad de tu internet",
+            "url": "http://localhost:3000/blog/Rendimiento/Trucos para mejorar la velocidad de tu internet",
+            "title": "Trucos para mejorar la velocidad de tu internet",
+            "summary": "Hoy en día, Internet se ha convertido en una herramienta valiosa tanto para el trabajo como el entretenimiento. Cada día nuevas formas de trabajar como el teletrabajo van ganando mayor protagonismo. Por ese motivo, vamos a hacer una serie de recomendaciones para optimizar la conexión a internet y que funcione lo mejor posible. Así, podremos aprovechar todo el potencial que ofrece nuestra conexión para trabajar o disfrutar de cualquier actividad que hagamos en el.",
+            "date_modified": "2023-03-01T00:00:00.000Z",
+            "author": {
+                "name": "Abdiel",
+                "url": "https://twitter.com/handle"
+            }
+        },
+        {
+            "id": "http://localhost:3000/blog/Videojuegos/branding-agency-replaced-ten-tools-with-just-one",
+            "url": "http://localhost:3000/blog/Videojuegos/branding-agency-replaced-ten-tools-with-just-one",
+            "title": "Maneras de mejorar los FPS en tu computadora",
+            "summary": "¿Tienes problemas con los gps en tu juegos? en este blog que vamos a dar varias medidas con las que podras aunmentar los fps y asi poder jugar con el mayor rendimiento posible",
+            "date_modified": "2023-09-05T00:00:00.000Z",
+            "author": {
+                "name": "Abdiel",
+                "url": "https://twitter.com/handle"
+            }
+        },
+        {
+            "id": "http://localhost:3000/blog/Videojuegos/marketing-automation-tips-and-tricks-for-streamlining-your-campaigns",
+            "url": "http://localhost:3000/blog/Videojuegos/marketing-automation-tips-and-tricks-for-streamlining-your-campaigns",
+            "title": "5 mejores juegos multijugador para pc",
+            "summary": "Si te gustan los videojuesgos y quieres vivir una experiencia completa con otros jugadores, te recomiendo los 10 mejores juegos multijugador para PC. Aquí podrás compartir el mismo escenario con usuarios de todo el mundo o disfrutar con un amigo de la aventura.",
+            "date_modified": "2023-11-21T00:00:00.000Z",
+            "author": {
+                "name": "Abdiel",
+                "url": "https://twitter.com/handle"
+            }
+        }
+    ]
+}

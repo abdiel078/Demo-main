@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Abdiel Personal Site</title>
+        <link>http://localhost:3000</link>
+        <description>A short description goes here.</description>
+        <lastBuildDate>Sat, 12 Aug 2023 23:59:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en_US</language>
+        <image>
+            <title>Abdiel Personal Site</title>
+            <url>http://localhost:3000/favicon.ico</url>
+            <link>http://localhost:3000</link>
+        </image>
+        <copyright>All rights reserved 2023, Abdiel</copyright>
+        <item>
+            <title><![CDATA[Charles Academia de Musica]]></title>
+            <link>http://localhost:3000/projects/agency-website-development-for-dev-x</link>
+            <guid>http://localhost:3000/projects/agency-website-development-for-dev-x</guid>
+            <pubDate>Mon, 21 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Una pagina dedicada a una academia de musica]]></description>
+            <author>hello@example.com (Abdiel)</author>
+        </item>
+    </channel>
+</rss>

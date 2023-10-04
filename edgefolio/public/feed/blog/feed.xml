@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Abdiel Personal Site</title>
+        <link>http://localhost:3000</link>
+        <description>A short description goes here.</description>
+        <lastBuildDate>Sat, 12 Aug 2023 23:59:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en_US</language>
+        <image>
+            <title>Abdiel Personal Site</title>
+            <url>http://localhost:3000/favicon.ico</url>
+            <link>http://localhost:3000</link>
+        </image>
+        <copyright>All rights reserved 2023, Abdiel</copyright>
+        <item>
+            <title><![CDATA[Trucos para mejorar la velocidad de tu internet]]></title>
+            <link>http://localhost:3000/blog/Rendimiento/Trucos para mejorar la velocidad de tu internet</link>
+            <guid>http://localhost:3000/blog/Rendimiento/Trucos para mejorar la velocidad de tu internet</guid>
+            <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hoy en día, Internet se ha convertido en una herramienta valiosa tanto para el trabajo como el entretenimiento. Cada día nuevas formas de trabajar como el teletrabajo van ganando mayor protagonismo. Por ese motivo, vamos a hacer una serie de recomendaciones para optimizar la conexión a internet y que funcione lo mejor posible. Así, podremos aprovechar todo el potencial que ofrece nuestra conexión para trabajar o disfrutar de cualquier actividad que hagamos en el.]]></description>
+            <author>hello@example.com (Abdiel)</author>
+        </item>
+        <item>
+            <title><![CDATA[Maneras de mejorar los FPS en tu computadora]]></title>
+            <link>http://localhost:3000/blog/Videojuegos/branding-agency-replaced-ten-tools-with-just-one</link>
+            <guid>http://localhost:3000/blog/Videojuegos/branding-agency-replaced-ten-tools-with-just-one</guid>
+            <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[¿Tienes problemas con los gps en tu juegos? en este blog que vamos a dar varias medidas con las que podras aunmentar los fps y asi poder jugar con el mayor rendimiento posible]]></description>
+            <author>hello@example.com (Abdiel)</author>
+        </item>
+        <item>
+            <title><![CDATA[5 mejores juegos multijugador para pc]]></title>
+            <link>http://localhost:3000/blog/Videojuegos/marketing-automation-tips-and-tricks-for-streamlining-your-campaigns</link>
+            <guid>http://localhost:3000/blog/Videojuegos/marketing-automation-tips-and-tricks-for-streamlining-your-campaigns</guid>
+            <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Si te gustan los videojuesgos y quieres vivir una experiencia completa con otros jugadores, te recomiendo los 10 mejores juegos multijugador para PC. Aquí podrás compartir el mismo escenario con usuarios de todo el mundo o disfrutar con un amigo de la aventura.]]></description>
+            <author>hello@example.com (Abdiel)</author>
+        </item>
+    </channel>
+</rss>
